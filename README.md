@@ -8,3 +8,5 @@ Full Stack Developer Curriculum is in progress:
   - [Workshop Build CatPhotoApp](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20CatPhotoApp) ✅
   - [Workshop Build a Curriculum Outline](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20Curriculum%20Outline) ✅
   - [Workshop Build a Travel Agency Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20a%20Travel%20Agency%20Page)✅
+- Semantic HTML
+  - [Workshop Build a Cat Blog Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Semantic%20HTML)✅

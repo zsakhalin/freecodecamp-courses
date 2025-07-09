@@ -13,3 +13,4 @@ Full Stack Developer Curriculum is in progress:
   - [Lab Build an Event Hub](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Semantic%20HTML/Lab%20Build%20an%20Event%20Hub)✅
 - Forms And Tables
   - [Workshop Build a Hotel Feedback Form](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Forms%20And%20Tables/Workshop%20Build%20a%20Hotel%20Feedback%20Form)✅
+  - [Lab Build a Survey Form](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Forms%20And%20Tables/Lab%20Build%20a%20Survey%20Form)✅

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">title</h1>
+    <p id="description">
+    description description description description
+    </p>
+    <form id="survey-form" method="POST" action="action_url">
+      <label for="name" id="name-label">name</label>
+      <input 
+        type="text"
+        id="name"
+        placeholder="name"
+        required>
+      <label for="email" id="email-label">email</label>
+      <input 
+        type="email" 
+        id="email"
+        placeholder="example@email.com" 
+        required>
+      <label for="number" id="number-label">number</label>
+      <input 
+        type="number" 
+        id="number" 
+        placeholder="num"
+        min="1" max="100">
+
+      <select id="dropdown">
+        <option value="name">name</option>
+        <option value="name1">name1</option>
+      </select>
+
+      <label for="radio-select1">radio-select1</label>
+      <input type="radio" id="radio-select1" name="radio-select" value="radio-select1">
+      <label for="radio-select2">radio-select2</label>
+      <input type="radio" id="radio-select2" name="radio-select" value="radio-select2">
+
+      <label for="checkbox-select1">checkbox-select1</label>
+      <input type="checkbox" id="checkbox-select1" name="checkbox-select1" value="checkbox-select1">
+      <label for="checkbox-select2">checkbox-select2</label>
+      <input type="checkbox" id="checkbox-select2" name="checkbox-select2" value="checkbox-select2">
+
+      <textarea
+        name="comments"
+        id="comments"
+        cols="30" rows="10"></textarea>
+      <button type="submit" id="submit">Submit</button>
+    </form>
+
+  </body>
+</html>

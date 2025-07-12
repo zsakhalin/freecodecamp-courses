@@ -18,3 +18,4 @@ Full Stack Developer Curriculum is in progress:
   - [Lab Build a Book Catalog Table](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Forms%20And%20Tables/Lab%20Build%20a%20Book%20Catalog%20Table)✅
 - Accessibility
   - [Lab Build a Checkout Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Accessibility)✅
+  - [Lab Design a Movie Review Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Accessibility)✅

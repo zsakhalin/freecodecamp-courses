@@ -20,3 +20,6 @@ Full Stack Developer Curriculum is in progress:
   - [Lab Build a Checkout Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Accessibility)✅
   - [Lab Design a Movie Review Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Accessibility)✅
   - [Lab Build Multimedia player page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Accessibility/Lab%20Build%20Multimedia%20player%20page)✅
+### СSS
+- Basic CSS
+  - [Workshop Design a Cafe Menu](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Basic%20CSS/Workshop%20Design%20a%20Cafe%20Menu)✅

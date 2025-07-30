@@ -1,0 +1,34 @@
+a{
+text-decoration: none;
+  color: black;
+}
+a:visited{
+  color: pink;
+}
+a:hover{
+  color: darkorange;
+}
+a:focus{
+  outline: 2px dashed black;
+}
+a:active{
+  color: red;
+}
+.todo-list{
+  width: 300px;
+  background-color: brown;
+  margin: 0 auto 0 auto;
+  list-style-type: none;
+  padding: 10px 20px;
+}
+.todo-list h1{
+  text-align: center;
+  font-size: 18px;
+  color: white;
+}
+.todo-list > li{
+  width: 100%;
+  background-color: #CDB083;
+  margin: 10px auto;
+  border-radius: 5px;
+}

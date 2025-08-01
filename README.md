@@ -25,3 +25,4 @@ Full Stack Developer Curriculum is in progress:
   - [Workshop Design a Cafe Menu](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Basic%20CSS/Workshop%20Design%20a%20Cafe%20Menu)✅
   - [Lab Design a Business Card](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Basic%20CSS/Lab%20Design%20a%20Business%20Card)✅
   - [Workshop Build a Stylized To-Do List](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Basic%20CSS/Workshop%20Build%20a%20Stylized%20To-Do%20List)✅
+  - [Lab Design a Blog Post Card](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Basic%20CSS/Lab%20Design%20a%20Blog%20Post%20Card)✅

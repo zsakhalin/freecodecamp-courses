@@ -11,12 +11,13 @@ form{
     font-weight: bold;
     background-color: #444444;
     padding: 15px;
-    margin: 20px auto;
+    margin: 0 auto;
     width: 400px;
     border-radius: 3px;
     border: 1px solid white;
 }
 input{
+    display: block;
     width: 100%;
     border-radius: 3px;
     background-color: #bfbfbf;
@@ -29,8 +30,9 @@ form label{
     display: block;
     background-color: #1a73e8;
     color: #fff;
-    margin: 10px auto;
-    width: 50%;
+    margin: 10px auto 0 auto;
+    width: 40%;
+    height: 30px;
 }
 #btnSubmit:hover{
     background-color: #1557a0;

@@ -10,6 +10,7 @@ Full Stack Developer Curriculum is in progress:
   - [Workshop Build a Travel Agency Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20a%20Travel%20Agency%20Page)✅
   - [Workshop Build a Bookstore Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20a%20Bookstore%20Page)✅
   - [Workshop Build an HTML Music Player](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20an%HTML%20Music%20Player)✅
+  - [Workshop Build an HTML Video Player](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20a%20Video%20Player) 
 - Semantic HTML
   - [Workshop Build a Cat Blog Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Semantic%20HTML)✅
   - [Lab Build an Event Hub](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Semantic%20HTML/Lab%20Build%20an%20Event%20Hub)✅

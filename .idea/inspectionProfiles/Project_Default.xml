@@ -1,0 +1,57 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="numpy" />
+          <option value="yarl" />
+          <option value="alembic" />
+          <option value="uliweb-alembic" />
+          <option value="sqlalchemy" />
+          <option value="pydantic" />
+          <option value="starlette" />
+          <option value="python-dotenv" />
+          <option value="protobuf" />
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="google.adk" />
+          <option value="google.cloud" />
+          <option value="google-cloud-storage" />
+          <option value="sentry-sdk" />
+          <option value="gunicorn" />
+          <option value="deprecated" />
+          <option value="greenlet" />
+          <option value="requests" />
+          <option value="aiohttp" />
+          <option value="telnyx" />
+          <option value="certifi" />
+          <option value="pip-system-certs" />
+          <option value="google-cloud-texttospeech" />
+          <option value="google-cloud-speech" />
+          <option value="pyngrok" />
+          <option value="twilio" />
+          <option value="websockets" />
+          <option value="pytest" />
+          <option value="asyncpg" />
+          <option value="pytest-asyncio" />
+          <option value="aioresponses" />
+          <option value="pytest-cov" />
+          <option value="pytest-mock" />
+          <option value="httpx" />
+          <option value="factory-boy" />
+          <option value="requests-mock" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

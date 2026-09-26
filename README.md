@@ -5,12 +5,13 @@ Full Stack Developer Curriculum is in progress:
 - Basic HTML
   - [Lab Build a Video Compilation Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Lab%20Build%20a%20Video%20Compilation%20Page)✅
   - [Lab Build a Recipe Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Lab%20Build%20a%20Recipe%20Page) ✅
+  - [Lab Build an HTML Audio and Video Player](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Lab%20Build%20an%20HTML%20Audio%20and%20Video%20Payer)✅
   - [Workshop Build CatPhotoApp](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20CatPhotoApp) ✅
   - [Workshop Build a Curriculum Outline](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20Curriculum%20Outline) ✅
   - [Workshop Build a Travel Agency Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20a%20Travel%20Agency%20Page)✅
   - [Workshop Build a Bookstore Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20a%20Bookstore%20Page)✅
   - [Workshop Build an HTML Music Player](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20an%HTML%20Music%20Player)✅
-  - [Workshop Build an HTML Video Player](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20a%20Video%20Player) 
+  - [Workshop Build an HTML Video Player](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Basic%20HTML/Workshop%20Build%20a%20Video%20Player)✅
 - Semantic HTML
   - [Workshop Build a Cat Blog Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Semantic%20HTML)✅
   - [Lab Build an Event Hub](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Semantic%20HTML/Lab%20Build%20an%20Event%20Hub)✅

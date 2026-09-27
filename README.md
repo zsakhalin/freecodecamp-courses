@@ -30,6 +30,7 @@ Full Stack Developer Curriculum is in progress:
   - [Lab Build Multimedia player page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Accessibility/Lab%20Build%20Multimedia%20player%20page)✅
   - [Workshop Debug a Coding Journey Blog Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Accessibility/Workshop%20Debug%20a%20Coding%20Journey%20Blog%20Page)✅
   - [Workshop Build a Tech Conference Schedule Table](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Accessibility/Workshop%20Build%20a%20Tech%20Conference%20Schedule%20Table)✅
+  - [Workshop Build an Accessible Audio Controller](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/HTML/Accessibility/Workshop%20Build%20an%20Accessible%20Audio%20Controller)✅
 ### СSS
 - Basic CSS
   - [Workshop Design a Cafe Menu](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Basic%20CSS/Workshop%20Design%20a%20Cafe%20Menu)✅

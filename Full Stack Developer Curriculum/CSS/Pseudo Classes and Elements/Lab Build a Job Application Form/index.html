@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>Head Hunter</h1>
+    <form>
+        <label for="name">Name: </label>
+        <input id="name" type="text"/>
+        <label for="email">Email: </label>
+        <input id="email" type="email"/>
+        <label for="position">Position: </label>
+        <select name="position" id="position">
+            <option value="Sales Manager">Sales Manager</option>
+            <option value="Manager">Manager</option>
+        </select>
+        <fieldset class="radio-group">
+            <legend>Availability: </legend>
+            <input id="full-time" type="radio" name="availability" value="Full-Time">
+            <label for="full-time">Full-Time</label>
+            <input id="part-time" type="radio" name="availability" value="Part-Time">
+            <label for="part-time">Part-Time</label>
+        </fieldset>
+        <label for="message"></label>
+        <textarea name="message" id="message" cols="30" rows="10"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+</div>
+</body>
+</html>

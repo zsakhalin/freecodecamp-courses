@@ -43,4 +43,6 @@ Full Stack Developer Curriculum is in progress:
 - Pseudo Classes and Elements
   - [Workshop Design a Greeting Card](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Pseudo%20Classes%20and%20Elements/Workshop%20Design%20a%20Greeting%20Card)✅
   - [Workshop Design a Parent Teacher Conference Form](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Pseudo%20Classes%20and%20Elements/Workshop%20Design%20a%20Parent%20Teacher%20Conference%20Form)✅
-  - [Lab Build a Job Application Form](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Pseudo%20Classes%20and%20Elements/Lab%20Build%20a%20Job%20Application%20Form)
+  - [Lab Build a Job Application Form](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Pseudo%20Classes%20and%20Elements/Lab%20Build%20a%20Job%20Application%20Form)✅
+- Colors
+  - [Workshop Build a Set of Colored Markers](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Colors/Workshop%20Build%20a%20Set%20of%20Colored%20Markers)✅

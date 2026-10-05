@@ -46,3 +46,4 @@ Full Stack Developer Curriculum is in progress:
   - [Lab Build a Job Application Form](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Pseudo%20Classes%20and%20Elements/Lab%20Build%20a%20Job%20Application%20Form)✅
 - Colors
   - [Workshop Build a Set of Colored Markers](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Colors/Workshop%20Build%20a%20Set%20of%20Colored%20Markers)✅
+  - [Lab Design a Set of Colored Boxes](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Colors/Lab%20Design%20a%20Set%20of%20Colored%20Boxes)✅

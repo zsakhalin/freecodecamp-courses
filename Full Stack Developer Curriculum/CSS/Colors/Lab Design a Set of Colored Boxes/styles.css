@@ -1,0 +1,36 @@
+body{
+    background-color: #f4f4f4;
+}
+
+h1{
+    text-align: center;
+}
+
+.color-grid{
+    width: 80%;
+    max-width: 316px;
+    margin: 0 auto;
+}
+
+.color-box{
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+}
+
+.color1{
+    background-color: #ffff00;
+}
+
+.color2{
+    background-color: rgb(255,255,255);
+}
+.color3{
+    background-color: royalblue;
+}
+.color4{
+    background-color: hsl(250,30%,50%);
+}
+.color5{
+    background: orange;
+}

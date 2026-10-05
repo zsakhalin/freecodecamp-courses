@@ -47,3 +47,5 @@ Full Stack Developer Curriculum is in progress:
 - Colors
   - [Workshop Build a Set of Colored Markers](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Colors/Workshop%20Build%20a%20Set%20of%20Colored%20Markers)✅
   - [Lab Design a Set of Colored Boxes](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Colors/Lab%20Design%20a%20Set%20of%20Colored%20Boxes)✅
+- Styling Forms
+  - [Workshop Design a Registration Form](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Styling%20Forms/Workshop%20Design%20a%20Registration%20Form)✅

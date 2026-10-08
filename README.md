@@ -52,3 +52,5 @@ Full Stack Developer Curriculum is in progress:
   - [Lab Design a Contact Form](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Styling%20Forms/Lab%20Design%20a%20Contact%20Form)✅
   - [Workshop Build a Game Settings Panel](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Styling%20Forms/Workshop%20Build%20a%20Game%20Settings%20Panel)✅
   - [Lab Design a Feature Selection Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Styling%20Forms/Lab%20Design%20a%20Feature%20Selection%20Page)✅
+- The Box Model
+  - 

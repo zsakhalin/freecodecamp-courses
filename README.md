@@ -55,3 +55,5 @@ Full Stack Developer Curriculum is in progress:
 - The Box Model
   - [Workshop Design a Rothko Painting](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/The%20Box%20Model/Workshop%20Design%20a%20Rothko%20Painting)✅
   - [Lab Build a Confidential Email Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/The%20Box%20Model/Lab%20Build%20a%20Confidential%20Email%20Page)✅
+- Flexbox
+  - [Workshop Build a Flexbox Photo Gallery](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Flexbox%20/Workshop%20Build%20a%20Flexbox%20Photo%20Gallery)✅

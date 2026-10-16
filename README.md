@@ -57,3 +57,4 @@ Full Stack Developer Curriculum is in progress:
   - [Lab Build a Confidential Email Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/The%20Box%20Model/Lab%20Build%20a%20Confidential%20Email%20Page)✅
 - Flexbox
   - [Workshop Build a Flexbox Photo Gallery](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Flexbox%20/Workshop%20Build%20a%20Flexbox%20Photo%20Gallery)✅
+  - [Workshop Design a Set of Colorful Boxes](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Flexbox%20/Workshop%20Design%20a%20Set%20of%20Colorful%20Boxes)✅

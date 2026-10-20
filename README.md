@@ -59,3 +59,4 @@ Full Stack Developer Curriculum is in progress:
   - [Workshop Build a Flexbox Photo Gallery](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Flexbox%20/Workshop%20Build%20a%20Flexbox%20Photo%20Gallery)✅
   - [Workshop Design a Set of Colorful Boxes](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Flexbox%20/Workshop%20Design%20a%20Set%20of%20Colorful%20Boxes)✅
   - [Lab Design a Pricing Plans Layout Page](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Flexbox%20/Lab%20Design%20a%20Pricing%20Plans%20Layout%20Page)✅
+  - [Certification Project Build a Page of Playing Cards](https://github.com/zsakhalin/freecodecamp-courses/tree/main/Full%20Stack%20Developer%20Curriculum/CSS/Flexbox%20/Certification%20Project%20Build%20a%20Page%20of%20Playing%20Cards)✅

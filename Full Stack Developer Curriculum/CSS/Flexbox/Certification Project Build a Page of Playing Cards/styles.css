@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+#playing-cards{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+.card{
+    flex: 0 0 200px;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px grey;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    align-self: flex-start;
+}
+.middle{
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+}
+.right{
+    align-self: flex-end;
+}
